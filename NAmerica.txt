@@ -1,0 +1,8 @@
+Region,Population,GDP,Area,Neighbours,,,,
+Canada,20,20,100,US West Coast,American Plains,Atlantic US,,
+American Plains,25,25,50,Canada,US West Coast,Atlantic US,Mexico,
+Mexico,30,20,30,American Plains,US West Coast,Atlantic US,Central America,Caribean Islands
+US West Coast,35,30,30,American Plains,Mexico,Canada,,
+Atlantic US,45,60,30,American Plains,Mexico,Canada,Caribean Islands,
+Central America,15,20,20,Mexico,Caribean Islands,,,
+Caribean Islands,25,25,20,Mexico,Central America,Atlantic US,,
